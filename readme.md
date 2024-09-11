@@ -1,6 +1,6 @@
-# 🚀 Pump.Fun Bump Bot: Automate Your Trading on Pump.fun & Raydium! 🚀
+# 🚀 Raydium/Pump.Fun Bump Bot: Automate Your Trading on Pump.fun & Raydium! 🚀
 
-Free to use bump bot for your pump fun tokens.
+Free to use bump bot for your Raydium and pump fun tokens.
 
 This bot buy and sell automatically on pump.fun and raydium
  
